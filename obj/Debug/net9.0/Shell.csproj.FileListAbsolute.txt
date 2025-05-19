@@ -1,0 +1,14 @@
+C:\Users\Eduar\Documents\Projetos\CSharp\Shell\bin\Debug\net9.0\Shell.exe
+C:\Users\Eduar\Documents\Projetos\CSharp\Shell\bin\Debug\net9.0\Shell.deps.json
+C:\Users\Eduar\Documents\Projetos\CSharp\Shell\bin\Debug\net9.0\Shell.runtimeconfig.json
+C:\Users\Eduar\Documents\Projetos\CSharp\Shell\bin\Debug\net9.0\Shell.dll
+C:\Users\Eduar\Documents\Projetos\CSharp\Shell\bin\Debug\net9.0\Shell.pdb
+C:\Users\Eduar\Documents\Projetos\CSharp\Shell\obj\Debug\net9.0\Shell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduar\Documents\Projetos\CSharp\Shell\obj\Debug\net9.0\Shell.AssemblyInfoInputs.cache
+C:\Users\Eduar\Documents\Projetos\CSharp\Shell\obj\Debug\net9.0\Shell.AssemblyInfo.cs
+C:\Users\Eduar\Documents\Projetos\CSharp\Shell\obj\Debug\net9.0\Shell.csproj.CoreCompileInputs.cache
+C:\Users\Eduar\Documents\Projetos\CSharp\Shell\obj\Debug\net9.0\Shell.dll
+C:\Users\Eduar\Documents\Projetos\CSharp\Shell\obj\Debug\net9.0\refint\Shell.dll
+C:\Users\Eduar\Documents\Projetos\CSharp\Shell\obj\Debug\net9.0\Shell.pdb
+C:\Users\Eduar\Documents\Projetos\CSharp\Shell\obj\Debug\net9.0\Shell.genruntimeconfig.cache
+C:\Users\Eduar\Documents\Projetos\CSharp\Shell\obj\Debug\net9.0\ref\Shell.dll
