@@ -12,3 +12,4 @@ C:\Users\Eduar\Documents\Projetos\CSharp\Shell\obj\Debug\net9.0\refint\Shell.dll
 C:\Users\Eduar\Documents\Projetos\CSharp\Shell\obj\Debug\net9.0\Shell.pdb
 C:\Users\Eduar\Documents\Projetos\CSharp\Shell\obj\Debug\net9.0\Shell.genruntimeconfig.cache
 C:\Users\Eduar\Documents\Projetos\CSharp\Shell\obj\Debug\net9.0\ref\Shell.dll
+C:\Users\Eduar\Documents\Projetos\CSharp\Shell\obj\Debug\net9.0\Shell.sourcelink.json
