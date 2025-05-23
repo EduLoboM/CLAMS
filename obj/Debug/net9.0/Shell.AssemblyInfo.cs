@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Shell")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac80cab50bd9ba7df811eff64e9bf97ff939971e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93d2dbd0580fef16d5b9f0e00f0bf5b2b9cffdae")]
 [assembly: System.Reflection.AssemblyProductAttribute("Shell")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Shell")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
